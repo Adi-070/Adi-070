@@ -50,7 +50,7 @@ I am Aditya Mishra, people call me Adi, a tech enthusiast and a budding problem-
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adi-070&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Adi-070&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-070&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adi-070.Adi-070)
