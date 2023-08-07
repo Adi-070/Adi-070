@@ -17,7 +17,7 @@
 
 
 
-I am Aditya Mishra, people call me Adi, a tech enthusiast and a budding problem-solver. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I'm Aditya Mishra, people call me Adi, a tech enthusiast and a budding problem-solver. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-adityamishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-mishra-69327b227/)](https://www.linkedin.com/in/aditya-mishra-69327b227/)
 [![Instagram Badge](https://img.shields.io/badge/-adityamishra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/aditya_760_/)](https://www.instagram.com/aditya_760_/)
